@@ -39,7 +39,7 @@ I built a **Content Summarizer Web App** that:
 
 ### High-Level Architecture
 
-![Architecture Diagram](assets/architecture.png)  
+![Architecture Diagram](assets/Architecture.png)  
 *(Replace this path with your actual image path, e.g. `images/architecture.png`.)*
 
 ### Components
