@@ -37,10 +37,10 @@ I built a **Content Summarizer Web App** that:
 
 ## 2. Architecture & AWS Services
 
-### High-Level Architecture
+## High-Level Architecture
 
-![Architecture Diagram](assets/Architecture.png)  
-*(Replace this path with your actual image path, e.g. `images/architecture.png`.)*
+![Architecture Diagram](images/Architecture.png)
+
 
 ### Components
 
